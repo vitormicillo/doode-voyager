@@ -1,11 +1,7 @@
-# **doode-voyager**
 Step by Step to install Voyager and a Voyager Frontend 
 
-# Laravel-Frontend-Backend
-Easy You Can Do Laravel Frontend &amp; Backend Using Voyager 
-
 **Prerequisites**
-- PHP >= 7.2.3
+- PHP >= 7.2.3 or ^8.1
 - PHP extension sqlite3 (required for teamtnt/tntsearch)
 - Node & NPM
 - Composer
